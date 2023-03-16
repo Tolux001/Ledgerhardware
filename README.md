@@ -34,7 +34,8 @@ A Web3 hardware walllet Website built using HTML5, CSS3 and javaScript that is r
 
 Get started by cloning project using the following command:
 ```
-git clone 
+git clone https://github.com/Tolux001/Ledgerhardware.git
+git hub CLI gh repo clone Tolux001/Ledgerhardware
 ```
 <h3 align="center">Show some &nbsp; &nbsp; by starring some of the repositories!</h3>
 

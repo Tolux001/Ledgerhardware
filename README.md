@@ -14,7 +14,7 @@ Explore the world of ledger hardware state of the art
 
 ## Desktop Version:
 
-![image]()
+![image](https://user-images.githubusercontent.com/101353040/225628123-f95542be-2126-4178-9c0e-cb855a6a7b1e.jpg)
 
 ## Mobile Version:
 

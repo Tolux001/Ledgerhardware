@@ -18,7 +18,7 @@ Explore the world of ledger hardware state of the art
 
 ## Mobile Version:
 
-<img src="" style="width:400px;"/>
+<img src="https://github.com/Tolux001/Ledgerhardware/files/10991252/Doc1.docx" style="width:400px;"/>
 
 ##### Description
 

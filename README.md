@@ -1,4 +1,4 @@
-# [Ledger-Hardware](https://ledgerhardwareT.netlify.app)
+# [Ledger-Hardware](https://ledgerhardware.netlify.app)
 
 ## Home Page
 

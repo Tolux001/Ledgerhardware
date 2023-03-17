@@ -37,7 +37,7 @@ Get started by cloning project using the following command:
 git clone https://github.com/Tolux001/Ledgerhardware.git
 git hub CLI gh repo clone Tolux001/Ledgerhardware
 ```
-<h3 align="center">Show some &nbsp; &nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Show some &nbsp;❤️🖤 &nbsp; by starring some of the repositories!</h3>
 
 ##### Format By 
 

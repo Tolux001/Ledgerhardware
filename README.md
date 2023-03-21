@@ -6,7 +6,7 @@ Shows information pertaining to Ledger worldwide
 
 ### Shop
 
-Holds vital information on why each items should be choosed and what this web 3 hardware are really about
+Holds vital information on why each items should be chosen and what this web 3 hardware are really about
 
 #### Cart
 
